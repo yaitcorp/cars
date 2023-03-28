@@ -1,0 +1,24 @@
+{
+  "Convertible, Coupe, Sedan, Wagon": [
+    1992,
+    1993,
+    1994
+  ],
+  "Convertible, Coupe, Sedan": [
+    1995,
+    1996,
+    1997,
+    1999,
+    2000
+  ],
+  "Convertible, Hatchback, Sedan": [
+    1998
+  ],
+  "Coupe, Sedan": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005
+  ]
+}
