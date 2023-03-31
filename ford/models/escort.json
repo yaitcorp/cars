@@ -1,0 +1,25 @@
+{
+  "Hatchback, Sedan, Wagon": [
+    1992,
+    1993,
+    1994,
+    1996
+  ],
+  "Hatchback, Wagon": [
+    1995
+  ],
+  "Sedan, Wagon": [
+    1997
+  ],
+  "Coupe, Sedan, Wagon": [
+    1998,
+    1999
+  ],
+  "Coupe, Sedan": [
+    2000
+  ],
+  "Sedan": [
+    2001,
+    2002
+  ]
+}
