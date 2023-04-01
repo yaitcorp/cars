@@ -1,0 +1,18 @@
+{
+  "Hatchback": [
+    1992,
+    1993,
+    1997,
+    1998,
+    1999
+  ],
+  "Coupe": [
+    1994
+  ],
+  "Convertible, Hatchback": [
+    1995
+  ],
+  "Convertible, Coupe": [
+    1996
+  ]
+}
