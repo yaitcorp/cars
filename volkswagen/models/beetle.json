@@ -1,0 +1,16 @@
+{
+  "Hatchback": [
+    2012
+  ],
+  "Convertible, Hatchback": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+  ],
+  "Convertible, Coupe, Hatchback": [
+    2019
+  ]
+}
