@@ -1,0 +1,21 @@
+{
+  "Convertible, Hatchback": [
+    1999,
+    2000,
+    2001,
+    2002
+  ],
+  "Convertible, Sedan": [
+    2003,
+    2004,
+    2005
+  ],
+  "Convertible, Sedan, Wagon": [
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011
+  ]
+}
